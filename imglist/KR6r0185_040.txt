@@ -1,0 +1,7 @@
+040-0253b00	X 040-0253b	buddhist/X-xuzang/X88/02/X88-0253.png
+040-0253c00	X 040-0253c	buddhist/X-xuzang/X88/02/X88-0253.png
+040-0254a00	X 040-0254a	buddhist/X-xuzang/X88/02/X88-0254.png
+040-0254b00	X 040-0254b	buddhist/X-xuzang/X88/02/X88-0254.png
+040-0254c00	X 040-0254c	buddhist/X-xuzang/X88/02/X88-0254.png
+040-0255a00	X 040-0255a	buddhist/X-xuzang/X88/02/X88-0255.png
+040-0255b00	X 040-0255b	buddhist/X-xuzang/X88/02/X88-0255.png

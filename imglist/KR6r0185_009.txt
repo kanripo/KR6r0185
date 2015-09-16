@@ -1,0 +1,5 @@
+009-0198c00	X 009-0198c	buddhist/X-xuzang/X88/01/X88-0198.png
+009-0199a00	X 009-0199a	buddhist/X-xuzang/X88/01/X88-0199.png
+009-0199b00	X 009-0199b	buddhist/X-xuzang/X88/01/X88-0199.png
+009-0199c00	X 009-0199c	buddhist/X-xuzang/X88/01/X88-0199.png
+009-0200a00	X 009-0200a	buddhist/X-xuzang/X88/02/X88-0200.png
