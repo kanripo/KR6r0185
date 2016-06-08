@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:47.887311
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:58
 #+TITLE: 居士傳
 #+PROPERTY: CBETA_ID X88n1646
 #+PROPERTY: ID KR6r0185
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 88, No. 1646
 #+PROPERTY: VOL 88
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0185_X_043-0260a> 
 #+PROPERTY: JUAN 43
-
- 居士傳四十三¶
+居士傳四十三¶
 ¶
 
-李卓吾傳¶
+* 李卓吾傳¶
 
 李卓吾。名贄。泉州晉江人。嘉靖間領鄉薦為教官。萬¶
 歷初歷南京刑部主事。出為姚安知府。卓吾風骨孤¶
